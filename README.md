@@ -4,8 +4,11 @@ Before using ChatGpt I remade it
 go to the root folder then cd to server and run the command 
 - node server.js
 <br>
+
 ## To Run the Frontend 
+
 after the server is runing cd into client folder and run the command 
+
 - npm run dev
 
 now you can find answers to your curiosity :)
