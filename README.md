@@ -2,9 +2,11 @@
 Before using ChatGpt I remade it 
 ## To Run the backend server 
 go to the root folder then cd to server and run the command 
-# node server.js
+- node server.js
+<br>
+## To Run the Frontend 
 after the server is runing cd into client folder and run the command 
-# npm run dev
+- npm run dev
 
 now you can find answers to your curiosity :)
 
